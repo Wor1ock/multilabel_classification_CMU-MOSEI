@@ -1,0 +1,22 @@
+[project]
+name = "course-work"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "ipywidgets>=8.1.8",
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.3",
+    "notebook>=7.5.5",
+    "num2words>=0.5.14",
+    "numpy>=2.4.3",
+    "pandarallel>=1.6.5",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.3",
+    "vadersentiment>=3.3.2",
+    "wordcloud>=1.9.6",
+]

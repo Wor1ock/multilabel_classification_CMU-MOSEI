@@ -1,0 +1,20 @@
+# скрипты для отладки
+.pre-commit-config.yaml
+
+# окружение и кэш
+.venv/
+__pycache__/
+*.py[cod]
+
+# специфично для Jupyter
+.ipynb_checkpoints/
+
+# данные и папки с данными
+*_data/
+features/
+datasets/
+
+# тяжелые/временные файлы
+*.zip
+*.tar.gz
+*.csv
