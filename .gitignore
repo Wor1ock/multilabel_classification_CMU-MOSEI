@@ -11,8 +11,9 @@ __pycache__/
 
 # данные и папки с данными
 *_data/
-features/
 datasets/
+models/
+logs/
 
 # тяжелые/временные файлы
 *.zip
